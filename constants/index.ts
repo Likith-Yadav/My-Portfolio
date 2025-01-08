@@ -162,6 +162,12 @@ export const Skill_data = [
   
   export const Backend_skill = [
     {
+      skill_name: "Material UI",
+      Image: "/mui.png",
+      width: 80,
+      height: 80,
+    },
+    {
       skill_name: "Node js",
       Image: "/node-js.png",
       width: 80,
